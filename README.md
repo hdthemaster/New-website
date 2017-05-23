@@ -1,2 +1,6 @@
 # hdthemaster
 5th period Test Website...
+<h1>computer science is cool</h1>
+<p>computer science...
+<img src="https://www.google.com/search?q=cool+computer+science&rlz=1CALEAE_enUS711US711&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj9hPq13obUAhVqjFQKHYCsCdIQ_AUICigB&biw=1366&bih=654&safe=active&ssui=on#imgrc=RwJkHqn4p4UsYM:">
+open up your mind.</p>
