@@ -2,5 +2,6 @@ body{
 background-image: url("computersciencebackground.jpeg");
 }
 .right {
-  left:400px
+  position: absolute;
+  left:400px;
 }
